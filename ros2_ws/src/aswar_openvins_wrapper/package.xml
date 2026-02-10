@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>aswar_openvins_wrapper</name>
+  <version>0.0.1</version>
+  <description>Wrapper package around OpenVINS for reproducible runs, configs, and artifacts.</description>
+  <maintainer email="you@example.com">Aswar</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>ament_index_python</exec_depend>
+</package>
