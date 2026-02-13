@@ -1,0 +1,14 @@
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenCV: /usr (found version "4.6.0") 
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/aswar/Project_Folders/cv_euroc/build/cv_cpp17_euroc_demo
+[ 33%] [32mBuilding CXX object CMakeFiles/euroc_demo.dir/src/main.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/euroc_demo.dir/src/euroc_io.cpp.o[0m
+[100%] [32m[1mLinking CXX executable euroc_demo[0m
+[100%] Built target euroc_demo
